@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Kushal Kumar. PHP web developer having experience in CodeIgniter/Symfony/Laravel. 
-- I have good knowledge of front end techonologies - HTML5,CSS3,JAVASCRIPT/JQUERY,BOOTSTRAP.
+- 👋 Hi, I’m Kushal Kumar. Software developer having experience in ReactJS, Node js/Express JS,PHP, Laravel, MongoDB, MySQL. 
+- I have good knowledge of front end techonologies - HTML5,CSS3,JAVASCRIPT/JQUERY,BOOTSTRAP, Uikit.
 - 👀 I’m interested in learning new techonologies.
 - 🌱 I’m currently learning JS Frameworks - React.Js, Vue.js
 - 💞️ I’m looking to collaborate on ...
