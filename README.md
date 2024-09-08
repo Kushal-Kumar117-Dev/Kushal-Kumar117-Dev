@@ -3,4 +3,4 @@
 - 👀 I’m interested in learning new techonologies.
 - 🌱 I’m currently working on MERN - React.Js, Node.Js, Express.Js, MongoDB
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Email - Kushal.kumar117@gmail.com | kushal.dev322@gmail.com
+- 📫 How to reach me Email - kushal.kumar117@gmail.com | kushal.dev322@gmail.com
